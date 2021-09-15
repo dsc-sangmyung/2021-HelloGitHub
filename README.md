@@ -1,15 +1,15 @@
 # Hello Git
 
-> GDSC SangMyung 1st 정기 세션
->  세션 명: Hello Git
->  발표자: 손병욱(C), 이소윤(C)
->  일시: 2021-09-17  21:00 ~
+> GDSC SangMyung 1st 정기 세션  
+> 세션 명: Hello Git  
+> 발표자: 손병욱(C), 이소윤(C)  
+> 일시: 2021-09-17  21:00 ~  
 
-> **Session 01  혼자 사용하는 Git** (손병욱)
-> **BreakTime**
+> **Session 01  혼자 사용하는 Git** (손병욱)  
+> **BreakTime**  
 > **Session 02 Git으로 하는 협업** (이소윤)
 
----
+
 
 ## **세션에 참여하기 전에..**
 
@@ -19,15 +19,15 @@
 1. **깃 설치**
 2. **Personal Access Token 발급받기**
 
-**이미 깃이 설치**가 되어있고 **터미널에서 CLI를 사용하는게 익숙**하다거나 **mac os를 사용**하시는 분들은 **자신이 편한 환경에서 진행**하시면 되겠습니다!
+**이미 깃이 설치**가 되어있고 **터미널에서 CLI를 사용하는게 익숙**하다거나 **mac os를 사용**하시는 분들은 **자신이 편한 환경에서 진행**하시면 되겠습니다!  
  **깃**을 **처음**써보거나 깃이 **설치가 되어있지 않다**면 아래 가이드를 따라 설치를 완료해주어 준비해주시면 됩니다!
 
----
+
 
 ## **Git 설치 확인**
 
-> 맥OS의 경우 Git이 기본적으로 설치되어 있어요!
->  터미널에서 git명령어를 입력해 설치되어있는지 확인해보세요
+> 맥OS의 경우 Git이 기본적으로 설치되어 있어요!  
+> 터미널에서 git명령어를 입력해 설치되어있는지 확인해보세요
 
 1. 터미널을 켜서 `git`을 입력하여 내 컴퓨터에 git이 설치되어있는지 확인한다.
 
@@ -35,7 +35,8 @@
    $ git
    ```
 
-2. 아래와 같은 git 명령어에 관한 설명이 나온다면 이미 설치가 되어 있는 것! 설치가 되어있지 않다면 아래 적힌 `설치 방법`을 보고 깃 설치를 하면 된다.
+2. 아래와 같은 git 명령어에 관한 설명이 나온다면 이미 설치가 되어 있는 것!  
+설치가 되어있지 않다면 아래 적힌 `설치 방법`을 보고 깃 설치를 하면 된다.
 
    ```
    usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
@@ -53,7 +54,7 @@
    ...
    ```
 
----
+
 
 ## **Git 설치 방법**
 
@@ -73,7 +74,7 @@
 
    ![https://github.com/dsc-sangmyung/2021-HelloGitHub/blob/main/assets/image/gitBashCT.PNG?raw=true](https://github.com/dsc-sangmyung/2021-HelloGitHub/blob/main/assets/image/gitBashCT.PNG?raw=true)
 
----
+
 
 ## Personal Token
 
@@ -86,18 +87,19 @@ Basic authentication using a password to Git is deprecated and will soon no long
 Visit <https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/> for more information around suggested workarounds and removal dates.
 ```
 
-몇달 전 부터 깃허브에서 사용자 인증 정책이 바뀌어서 그런 것인데 `git push`이후 아이디와 비밀번호를 입력할 때 비밀번호 대신 `personal access token`을 입력해 주어야 합니다. 아래 링크를 보고 찾기쉬운 위치에 토큰값을 저장해 두시면 됩니다.
+몇달 전 부터 깃허브에서 사용자 인증 정책이 바뀌어서 그런 것인데 `git push`이후 아이디와 비밀번호를 입력할 때 비밀번호 대신 `personal access token`을 입력해 주어야 합니다.  
+아래 링크를 보고 찾기쉬운 위치에 토큰값을 저장해 두시면 됩니다.
 
 **Github 인증 토큰 발급받기**: https://curryyou.tistory.com/344
 
----
+
 
 ## 예습해오면 좋아요
 
 - 리눅스 명령어: https://gomguard.tistory.com/73
 - 마크다운: https://gist.github.com/ihoneymon/652be052a0727ad59601
 
----
+
 
 ## 세션 이후에 읽어보면 좋아요
 
