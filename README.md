@@ -96,8 +96,9 @@ Visit <https://github.blog/2020-12-15-token-authentication-requirements-for-git-
 
 ## 예습해오면 좋아요
 
-- 리눅스 명령어: https://gomguard.tistory.com/73
-- 마크다운: https://gist.github.com/ihoneymon/652be052a0727ad59601
+- [리눅스 명령어](https://gomguard.tistory.com/73)
+- [마크다운 기본](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+- [vi 명령어 모음](https://iamfreeman.tistory.com/entry/vi-vim-%ED%8E%B8%EC%A7%91%EA%B8%B0-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC-%EB%8B%A8%EC%B6%95%ED%82%A4-%EB%AA%A8%EC%9D%8C-%EB%AA%A9%EB%A1%9D)
 
 
 
